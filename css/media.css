@@ -1,0 +1,434 @@
+@media only screen and (min-width: 1800px) {
+    header .form{
+    margin-right: -14px;
+}
+}
+@media only screen and (max-width: 1800px){
+.wrap footer div{
+       margin-left: 15px;
+       margin-right: 15px; 
+}
+
+}
+@media only screen and (max-width: 1500px){
+    .wrap{
+        height: auto!important;
+    }
+   .wrap .HowItWworks .pipleRight{
+        right: -523px;
+    }
+}/*1500px*/
+
+@media only screen and (max-width: 1320px){
+   .wrap .HowItWworks .pipleLeft{
+        display: none;
+    }
+    .wrap .HowItWworks .colorText{
+        margin-left: 120px;
+            width: 334px;
+            
+    }
+    .wrap .HowItWworks{
+            background-position: -227px 0px;
+    }
+    .wrap .HowItWworks .ct p:nth-child(2){
+            margin-bottom: 7px;
+    }
+    .wrap .HowItWworks .ct p:nth-child(3){
+            font-size: 14px;
+                line-height: 17px;
+    }
+    .wrap .HowItWworks .ct{
+        padding-top: 13px;
+        padding-right: 7px;
+    }
+    .wrap h1{
+        font-size: 47px;
+    }
+    .wrap h1:hover{
+        font-size: 47px;
+    }
+    .wrap header .form{
+        float: none;
+    width: 370px;
+    margin: 0 auto;
+    }
+    .wrap header{
+        padding-bottom: 49px;
+    }
+    .wrap header .formBlock{
+        margin-top: 100px;
+    }
+   .wrap .HowItWworks h3 {
+    padding-left: 0;
+    text-align: center;
+}
+    .wrap .step h2{
+        font-size: 43px;
+    }
+}/*1320px*/
+
+@media only screen and (max-width: 1200px){
+    .wrap .HowItWworks .ct{
+        padding-top: 6px;
+    }
+    .wrap .HowItWworks .ct p:nth-child(2){
+            margin-bottom: 2px;
+    }
+    .wrap header .formBlock {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+    .wrap .HowItWworks .colorText {
+    margin-left: 314px;
+    width: 215px;
+}
+.wrap .HowItWworks .colorText1 {
+    background-color: #38648a;
+    height: 133px;
+}
+.wrap .HowItWworks .color{
+            width: 81px;
+    left: -83px;
+}
+.wrap .HowItWworks .ct p:nth-child(2) {
+    color: #fff;
+    font-size: 15px;
+    }
+    .wrap .HowItWworks .ct p:nth-child(3) {
+    font-size: 11px;
+    }
+    .wrap .HowItWworks .pipleRight{
+        right: -440px;
+        width: 380px;
+    }
+    .wrap .HowItWworks .pipleLeft {
+    display: block;
+    left: -333px;
+}
+.wrap h1 {
+    font-size: 35px;
+}
+.wrap h1:hover {
+    font-size: 35px;
+}
+.wrap header{
+        padding-bottom: 92px;
+            background-size: cover;
+}
+.wrap header .formBlock {
+    margin-top: 53px;
+}
+.wrap .step h2 {
+    font-size: 32px;
+}
+.wrap .blockForm .form{
+    width: 674px;
+    padding-right: 30px;
+}
+.wrap .blockForm input[type="text"], .blockForm select{
+    width: 300px;
+}
+.wrap .blockForm .form .phone {
+    width: 256px;
+}
+.wrap .blockForm .form .code {
+    width: 44px;
+}
+.wrap .blockForm .form select{
+     width: 300px;
+}
+.wrap .blockForm{
+        padding-top: 65px;
+    padding-bottom: 100px;
+}
+.wrap .step{
+        padding-top: 1px;
+    padding-bottom: 16px;
+}
+.wrap .pyment h2{
+        margin-top: 54px;
+}
+.wrap .pyment{
+    padding-bottom: 63px;
+}
+.wrap footer{
+    background-repeat:repeat;
+    padding-bottom: 50px;
+}
+}/*1200px*/
+
+@media only screen and (max-width: 992px){
+   .wrap .HowItWworks .colorText {
+    margin-left: 143px;
+}
+   .wrap .HowItWworks .pipleLeft{
+        left: -152px;
+        width: 102px;
+        background-position-x: -167px;
+   }
+   .wrap .HowItWworks .pipleRight {
+    right: -386px;
+    width: 295px;
+    background-position-x: -80px;
+}
+   .wrap footer div p{
+       font-size: 10px;
+   }
+}/*992px*/
+
+@media only screen and (max-width: 767px){
+    .wrap .HowItWworks .colorBlocks,
+    .wrap .HowItWworks .pipleLeft,
+    .wrap .HowItWworks .pipleRight{
+        display:none;
+    }
+    .wrap .HowItWworks .colorIcon{
+        display: none;
+    }
+    .wrap h2 {
+    color: #303030;
+    font-size: 38px;
+    font-family: 'futura md bt';
+    line-height: 45px;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 6px;
+}
+    .wrap h3{
+        font-size: 17px;
+       
+    }
+    header .form h3{
+         line-height: 39px;
+    }
+    .wrap .HowItWworks .colorText{
+            margin-top: 26px;
+            margin-left: 143px;
+    }
+    .wrap .HowItWworks{
+        padding-bottom: 45px;
+    }
+    .wrap .step h2 {
+    font-size: 21px;
+    line-height: 47px;
+        margin-top: 22px;
+    margin-bottom: 7px;
+}
+    .wrap .step{
+            background-size: cover;
+    }
+   .wrap .pyment .pyments img {
+    vertical-align: middle;
+    margin-right: 0px;
+}
+   .wrap .pyment h2 {
+    margin-top: 28px;
+}
+   .wrap .pyment {
+    padding-bottom: 36px;
+}
+   .wrap footer {
+    padding-bottom: 33px;
+    padding-top: 38px;
+
+}
+
+   .wrap footer div{
+       margin-top: 34px;
+   }
+   .wrap .blockForm .form{
+           width: 374px;
+    max-height: 395px;
+   }
+   .wrap{
+    /*margin-bottom: 21px;*/
+    font-size: 20px;
+   }
+   .wrap .blockForm .form .subCheckbox{
+       margin-right: 3px;
+    margin-bottom: 30px;
+   }
+   .wrap .blockForm .form h4{
+           font-size: 21px;
+               margin-top: 27px;
+    margin-bottom: 23px;
+   }
+   .wrap .blockForm .form input[type="submit"]{
+           font-size: 24px;
+               padding: 19px 45px;
+   }
+   .wrap .blockForm{
+           padding-bottom: 73px;
+   }
+   .wrap .HowItWworks .color {
+    height: 124px;
+    padding-top: 27px;
+}
+.wrap .HowItWworks .ct {
+    height: 124px;
+}
+.wrap .HowItWworks .ct p:nth-child(2) {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+}/*767px*/
+@media only screen and (max-width: 375px){
+    .wrap header .form {
+    width: 315px;
+    height:477px;
+    }
+    .wrap header input[type="text"], header select{
+        width: 253px;
+    }
+    .wrap header .form .code {
+    width: 47px;
+}
+    .wrap header .form .phone {
+    width: 206px;
+}
+    .wrap header .openAccount input[type="text"], .wrap header select {
+    width: 253px;
+}
+    .wrap header .form h3{
+            font-size: 20px;
+    line-height: 37px;
+    }
+    .wrap header .form input[type="submit"]{
+            font-size: 18px;
+                padding: 13px 25px;
+    }
+    .wrap header .form .subCheckbox{
+            margin-bottom: 22px;
+    }
+    .wrap header img{
+        width:60%;
+    }
+    .wrap h1{
+            font-size: 30px;
+                line-height: 47px;
+                margin-top: 33px;
+    margin-bottom: 27px;
+    }
+    .wrap header .videoBlock p{
+    font-size: 18px;
+    line-height: 31px;
+    margin-top: 17px;
+    }
+    .wrap header .formBlock {
+    margin-top: 30px;
+}
+    .wrap header {
+    padding-bottom: 64px;
+    background-size: cover;
+}
+    .wrap .HowItWworks .colorText {
+    margin-top: 26px;
+    margin-left: 121px;
+}
+
+    .wrap .blockForm .form {
+    width: 316px;
+    max-height: 395px;
+}
+    .wrap .blockForm input[type="text"], .blockForm select {
+    width: 253px;
+}
+     .wrap .blockForm .form .code {
+    width: 47px;
+}
+    .wrap .blockForm .form .phone {
+    width: 206px;
+}
+    .wrap .blockForm .openAccount input[type="text"],
+     .wrap .blockForm select {
+    width: 253px!important;
+}
+    .wrap .blockForm .form h4 {
+    font-size: 17px;
+    margin-top: 27px;
+    margin-bottom: 18px;
+}
+    .wrap .blockForm .form input[type="submit"] {
+    color: #ffffff;
+    font-size: 26px;
+    font-family: 'futura md bt';
+    text-transform: uppercase;
+    letter-spacing: 0.30px;
+    border: 1px solid #f29e5b;
+    background-color: #f56b1f;
+    padding: 19px 45px;
+    -webkit-box-shadow: 4px 2px 0px 0px #ffffff;
+    -moz-box-shadow: 4px 2px 0px 0px #ffffff;
+    box-shadow: 4px 2px 0px 0px #ffffff;
+    transition: all 0.5s;
+}
+    .wrap .blockForm .form input[type="submit"]{
+    font-size: 18px;
+    padding: 13px 25px;
+}
+    .wrap .pyment .pyments img{
+        width: 10%;
+    }
+}/*374*/
+@media only screen and (max-width: 320px){
+    .wrap .HowItWworks .ct p:nth-child(2) {
+    font-size: 14px;
+}
+    .wrap .HowItWworks .colorText{
+        margin-left: 97px;
+            width: 210px;
+    }
+    .wrap h3 {
+    font-size: 14px;
+}
+    .wrap h2{
+        font-size: 31px;
+    }
+    .wrap h1{
+            font-size: 25px;
+    line-height: 44px;
+    margin-top: 22px;
+    margin-bottom: 27px;
+    }
+    .wrap header{
+            padding-top: 44px;
+    }
+    .wrap .step h2{
+        font-size: 16px;
+    line-height: 36px;
+    }
+    .wrap header .form{
+            width: 300px;
+
+    }
+    .wrap header .form h3 {
+    font-size: 19px;
+    line-height: 32px;
+        margin-bottom: 18px;
+}
+    header input[type="text"], header select{
+        height: 39px;
+    }
+    .wrap .blockForm .form{
+        width: 300px;
+            padding-right: 23px;
+                padding-left: 23px;
+    }
+        .wrap .blockForm .form h4 {
+            font-size: 17px;
+        }
+        .wrap .blockForm input[type="text"], .blockForm select{
+            height:38px;
+        }
+        .wrap .pyment h2{
+            font-size: 23px;
+        }
+        .wrap .HowItWworks h3{
+            letter-spacing: 0;
+        }
+      
+
+}/*320*/
